@@ -24,3 +24,6 @@ Fluxo de video precisa ser proveniente de placa de captura ligada a decodificado
 5 - Rode `main.py`
 
 Imagens ficam armazenadas também em `/results`
+
+
+Baseado nos tutoriais vistos em [TowardsDataScience](https://towardsdatascience.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-713ba7f6c0fb) e [Medium - Marek K. Cichy](https://medium.com/@marekkcichy/how-to-set-up-an-obscenely-easy-tweetbot-in-python-7837d776e706)
